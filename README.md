@@ -1,1 +1,0 @@
-Tento projekt je neoficiální a slouží výhradně ke vzdělávacím účelům. Autoři nejsou nijak spojeni, sponzorováni ani schváleni společností BAKALÁŘI software s.r.o. Použití softwaru je zcela na vlastní nebezpečí a autoři nenesou odpovědnost za případné škody či zablokování účtu.
